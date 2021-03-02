@@ -1,0 +1,3 @@
+Driving my racecar is fun. <--- contains 1 palindrome(s) and is not a palindrome itself.
+The deed to my racecar is stolen. <--- contains 2 palindrome(s) and is not a palindrome itself.
+racecar <--- contains 1 palindrome(s) and is a palindrome itself.

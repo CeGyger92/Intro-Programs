@@ -1,0 +1,6 @@
+Dodgers Yankees	23 45
+Yankees Dolphins 29 40
+Dolphins Dodgers 57 90
+Indians Cowboys 62 75
+Indians Dodgers 20 50
+Cowboys Yankees 85 70

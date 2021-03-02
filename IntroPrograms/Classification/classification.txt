@@ -1,0 +1,4 @@
+Freshman = 3
+Sophomores = 4
+Juniors = 5
+Seniors = 3

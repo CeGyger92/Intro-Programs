@@ -1,0 +1,6 @@
+Team Name:W/L
+Dodgers:2/1
+Yankees:1/2
+Dolphins:1/1
+Indians:0/2
+Cowboys:2/0
